@@ -161,7 +161,7 @@ int main(void)
 
     // Initialize the hash table
   // TA CAN CHANGE THE INT SIZE
-    int hashTableSize = 10;
+    int hashTableSize = 11;
   //struct Hashtype
     struct HashType *hashTable = (struct HashType *) calloc(1, sizeof(struct HashType));
   //hastable to size
